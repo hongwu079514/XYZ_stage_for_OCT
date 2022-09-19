@@ -1,5 +1,25 @@
 This document shows the functionalities of the program. 
 
+
+
+
+TO download CMO examples, go to 
+https://www.copleycontrols.com/en/support/
+
+  Find : Accelnet
+  click: Software
+  click: CMO Ver6 and download
+
+
+To download Visual Studio 2017:
+https://visualstudio.microsoft.com/vs/older-downloads/
+
+
+To download .NET Framework 4.0:
+https://www.microsoft.com/en-us/download/details.aspx?id=17851
+
+
+
 This program has the following functions
 
 1) Homing
@@ -54,10 +74,15 @@ This program has the following functions
 
 - Should be disabled when another sequence/instruction is active. 
 
+*******
+* Halt*
+*******
+- Stops any sequence 
 
-
-
-
+**********
+* Status * 
+**********
+- Displays the current X, Y postions in counts. 
 
 
 
