@@ -1,0 +1,11 @@
+C:\Users\ljw5330\Downloads\CMO EXAMPLE _C#\EX3_BasicMoves\bin\x64\Release\EX3_BasicMoves.exe.config
+C:\Users\ljw5330\Downloads\CMO EXAMPLE _C#\EX3_BasicMoves\bin\x64\Release\EX3_BasicMoves.exe
+C:\Users\ljw5330\Downloads\CMO EXAMPLE _C#\EX3_BasicMoves\bin\x64\Release\EX3_BasicMoves.pdb
+C:\Users\ljw5330\Downloads\CMO EXAMPLE _C#\EX3_BasicMoves\bin\x64\Release\CMO.dll
+C:\Users\ljw5330\Downloads\CMO EXAMPLE _C#\EX3_BasicMoves\obj\x64\Release\EX3_BasicMoves.BasicMoves.resources
+C:\Users\ljw5330\Downloads\CMO EXAMPLE _C#\EX3_BasicMoves\obj\x64\Release\EX3_BasicMoves.Properties.Resources.resources
+C:\Users\ljw5330\Downloads\CMO EXAMPLE _C#\EX3_BasicMoves\obj\x64\Release\EX3_BasicMoves.csproj.GenerateResource.cache
+C:\Users\ljw5330\Downloads\CMO EXAMPLE _C#\EX3_BasicMoves\obj\x64\Release\EX3_BasicMoves.csproj.CoreCompileInputs.cache
+C:\Users\ljw5330\Downloads\CMO EXAMPLE _C#\EX3_BasicMoves\obj\x64\Release\EX3_BasicMoves.csproj.CopyComplete
+C:\Users\ljw5330\Downloads\CMO EXAMPLE _C#\EX3_BasicMoves\obj\x64\Release\EX3_BasicMoves.exe
+C:\Users\ljw5330\Downloads\CMO EXAMPLE _C#\EX3_BasicMoves\obj\x64\Release\EX3_BasicMoves.pdb
