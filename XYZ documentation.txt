@@ -1,0 +1,64 @@
+This document shows the functionalities of the program. 
+
+This program has the following functions
+
+1) Homing
+2) Scan Sequence
+3) Snapshot
+4) Change Starting Location
+5) Move Z Up/Down
+6) Halt
+
+**********
+* Homing *
+**********
+- Upon active, both the X-axis' and the Y-axis will move towards its default positiob, which is the side opposide to the respective motor. 
+
+- While moving towards HOME, other functions will be disabled 
+
+- When it is at HOME position, HOME button will be disabled 
+
+- Should be disabled when another sequence/instruction is active. 
+
+*****************
+* Scan Sequence *
+*****************
+- Take 2 values of X, Y (length, width) as input for area to cover, the gantry system will traverse in zig-zag-like sequence until the specified area/size is covered.
+
+- With every move, the scanner will scan the "tile", and once the sequence is complete, the scanned data will be stored as CSV file into default location. 
+
+- At anytime during the sequence, if Halt is pressed, the entire sequence will stop. 
+
+- Should be disabled when another sequence/instruction is active. 
+
+************
+* Snapshot *
+************
+- One single scan operation at current location. 
+
+****************************
+* Change Starting Location *
+****************************
+- Takes 2 input values of X, Y, and then move the scanner to the specified position.
+
+- At anytime during the operation, if Halt is pressed, it will stop the operation.
+
+- Should be disabled when another sequence/instruction is active. 
+
+******************
+* Move Z Up/Down *
+******************
+- Upon pressing the button, Z motor should move up/down by a set amount of distance. 
+
+- Should not be able to continue to move in the respective direction if the limit is reached(when the sensor is active).
+
+- Should be disabled when another sequence/instruction is active. 
+
+
+
+
+
+
+
+
+
